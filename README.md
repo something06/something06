@@ -21,7 +21,7 @@
 [![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=fff)](#)
 
 ## Tools
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)(#)
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
 [![Github Desktop](https://img.shields.io/badge/-Github_Desktop-7c3eec?style=for-the-badge&logo=Github&logoColor=white)](https://desktop.github.com/)
 [![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=for-the-badge&logo=FirefoxBrowser&logoColor=white)](https://www.mozilla.org/en-US/firefox/new/)
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
