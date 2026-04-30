@@ -6,10 +6,10 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-2f3131?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
 
 ### Known languages
-[![Cobol](https://img.shields.io/badge/COBOL-GnuCOBOL-blue)]
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)]
-[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)]
+![Cobol](https://img.shields.io/badge/COBOL-GnuCOBOL-blue)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 
 ### Learning / Previously used
 
