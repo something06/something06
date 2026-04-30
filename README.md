@@ -5,10 +5,15 @@
 [![CSS](https://img.shields.io/badge/-CSS-2299f8?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-2f3131?style=for-the-badge&logo=JavaScript&logoColor=white)](https://www.javascript.com/)
 
+### Known languages
+[![Cobol](https://img.shields.io/badge/COBOL-GnuCOBOL-blue)]
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
+[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)]
+[![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)]
 
 ### Learning / Previously used
 
-[![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)](https://www.jetbrains.com/idea/)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)]
 
 ## Tools
 [![VSC](https://img.shields.io/badge/-VSC-0079d0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
