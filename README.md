@@ -13,7 +13,7 @@
 
 ### Learning / Previously used
 
-[![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)]
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)
 
 ## Tools
 [![VSC](https://img.shields.io/badge/-VSC-0079d0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
