@@ -18,7 +18,7 @@
 
 ### Frameworks
 [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
-[![.NET MAUI](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)
+[![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=fff)](#)
 
 ## Tools
 [![VSC](https://img.shields.io/badge/-VSC-0079d0?style=for-the-badge&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
