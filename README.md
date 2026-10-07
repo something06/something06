@@ -1,5 +1,18 @@
+# Hi, I'm Blake Lutz
+
+I majored in computer application development.
+
+## Certifications
+Certiport Information Technology Specialist (ITS)
+- HTML and CSS: December 2022
+- JavaScript: April 2023
+- Python: November 2023
+- Java: February 2024
+
+Verify at [verify.certiport.com](https://verify.certiport.com)
+
 ## Languages
-### Certified
+### Most used
 [![Python](https://img.shields.io/badge/-Python-002D04?style=for-the-badge&logo=Python&logoColor=white)](https://www.Python.org/)
 [![HTML](https://img.shields.io/badge/-HTML-d63d0f?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.com/)
 [![CSS](https://img.shields.io/badge/-CSS-2299f8?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3schools.com/css/)
@@ -13,12 +26,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
 ### Learning / Previously used
-
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white)
-
-### Frameworks
-[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
-[![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?logo=dotnet&logoColor=fff)](#)
 
 ## Tools
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
