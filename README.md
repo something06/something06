@@ -1,6 +1,3 @@
-# Hi, I'm Blake Lutz
-
-I majored in computer application development.
 
 ## Certifications
 Certiport Information Technology Specialist (ITS)
